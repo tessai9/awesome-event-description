@@ -15,29 +15,29 @@
 
 # 三宮.devとは
 
-神戸三宮を中心に関西のエンジニア界隈を盛り上げることを目的としたエンジニアコミュニティです
+<img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/de/3e/de3e841f2a29f391ceb8d7d407528449.png" width="200" />
 
-バックエンド～フロントエンドまで幅広い技術をテーマにしたイベントを企画・開催しています！
+神戸三宮を中心に関西のエンジニア界隈を盛り上げることを目的としたエンジニアコミュニティです  
+もくもく会やLT会、その他にweb技術を中心として幅広い技術をテーマにしたイベント・勉強会を毎月開催しています！  
+ベテランから初学者までどんな方でも大歓迎ですので気軽にご参加ください！
 
+### 三宮.devではイベント企画を常時募集しています
+「この技術に触れる機会が欲しい！」だったり「アウトプットの場が欲しい！」などがあれば、[イベント提案・投票サイト](https://proposal.sannomiya.dev)へ気軽に投稿ください！
+
+### Slackあります
 毎月のイベントに関する情報などは[三宮.devのslack](https://join.slack.com/t/kobe-sannomiya-dev/shared_invite/zt-g45oc103-sIqIL~Lu~TVz~G38iADyDA)にて発信してますので是非ともご参加ください！
 
-また、勉強会中に得た学びやハンズオンで用いた資料などメンバーが個人的に残しておきたいと思った情報は[三宮.devのScrapbox](https://scrapbox.io/sannomiya-dev/) へ自由にアップロード可能としていますので、こちらもご活用ください！
+### Scrapbox使ってます
+メンバーの方が勉強会中に得た学び、ハンズオンで用いた資料などは[三宮.devのScrapbox](https://scrapbox.io/sannomiya-dev) へ自由にアップロード可能としています
 
 # 主催者プロフィール
 
 ### てさお [@tettyanman](https://twitter.com/tettyanman)
 
-神戸で働くエンジニア  
-Ruby, Rustが好き  
-最近気になっている技術は xR, Blockchain
-
 ![me](https://avatars.githubusercontent.com/tessai9?s=200)
 
-# slack
-
-三宮.devのslackあります  
-[ご興味あればぜひご参加ください！](https://join.slack.com/t/kobe-sannomiya-dev/shared_invite/zt-g45oc103-sIqIL~Lu~TVz~G38iADyDA)
-
+神戸のIT会社で働いている一般エンジニアです  
+主にRubyとRustが好きですが、技術的なことは大体なんでも好きなので色々教えてください
 
 # 禁止事項、アンチハラスメントポリシー
 
