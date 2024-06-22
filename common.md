@@ -15,7 +15,7 @@
 
 # 三宮.devとは
 
-<img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/de/3e/de3e841f2a29f391ceb8d7d407528449.png" width="200" />
+<img src="https://raw.githubusercontent.com/tessai9/sannomiya.dev-logos/main/img/logo_color.svg" width="200" />
 
 神戸三宮を中心に関西のエンジニア界隈を盛り上げることを目的としたエンジニアコミュニティです  
 もくもく会やLT会、その他にweb技術を中心として幅広い技術をテーマにしたイベント・勉強会を毎月開催しています！  
